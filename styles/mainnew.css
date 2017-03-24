@@ -1,0 +1,23 @@
+*{
+	/* Universal reset: */
+	margin:0;
+	padding:0;
+	
+}
+
+
+header,footer,
+article,section,
+hgroup,nav,
+figure{
+	/* Giving a display value to the HTML5 rendered elements: */
+	display:block;
+}
+
+body {
+	/* Setting the default text color, size, page background and a font stack: */
+	font-size:0.825em;
+	/* background-color:2622162; */
+	background-image: url("map.jpg") no-repeat scroll center center;
+	font-family:Arial, Helvetica, sans-serif;
+	}
